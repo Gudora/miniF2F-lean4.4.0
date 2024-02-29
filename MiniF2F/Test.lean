@@ -6,9 +6,9 @@ Authors: Kunhao Zheng, Kudzo Ahegbebu, Stanislas Polu, David Renshaw, OpenAI GPT
 ! This file was ported from Lean 3 source module test and edited by Jiacheng Chen.
 -/
 import MiniF2F.Minif2fImport
-import LeanCopilot
+-- import LeanCopilot
 
-open LeanCopilot
+-- open LeanCopilot
 
 set_option maxHeartbeats 0
 set_option trace.aesop true
